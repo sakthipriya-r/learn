@@ -7,8 +7,12 @@ eat fries.
 
 drink water.
 <<<<<<< HEAD
+<<<<<<< HEAD
 drint beer.
 =======
 drint juice.
 >>>>>>> juice added
+=======
+drint juice.
+>>>>>>> 75fa02df5a6b96e6fb745c81eda60b9656c96a40
 
