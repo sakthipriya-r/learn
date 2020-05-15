@@ -6,5 +6,9 @@ eat fries.
 
 
 drink water.
+<<<<<<< HEAD
 drint beer.
+=======
+drint juice.
+>>>>>>> juice added
 
